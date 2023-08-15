@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header */
+.navbar-brand{
+    font-weight: bold;
+}
+
+/* Main */
+/* Session */
+#bookSession{
+    margin: 30px 0px 10px 0px;
+}
+#booking{
+    padding: 10px;
+}
+#bsCollage{
+    padding: 10px;
+}
+
+
+#servicePartners{
+    width:fit-content;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#spImg{
+    margin: 30px;
+}
+#spImg img{
+    margin: 20px;
+    margin-top: 0px;
+    height: 50px;
+    width: 100px;
+
+}
+
+/* Sel team */
+#Sales-team{
+    margin: 50px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+#leaders{
+    height: 20em;
+}
+/* Footer */
+.testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+  }

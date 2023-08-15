@@ -1,0 +1,10 @@
+body{
+
+}
+.card-img-overlay {
+  background-color: rgba(#000, 0.4);
+}
+.row{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

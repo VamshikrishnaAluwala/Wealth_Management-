@@ -1,0 +1,46 @@
+.tab-pane{
+	padding:2%
+}
+
+.tab-pane-grid{
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 120px;
+    grid-row-gap: 58px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+}
+
+.tab-pane-content{
+	display:flex
+}
+/*Number align centre with cirlce background*/
+.div-block-16{
+	display: flex;
+    width: 56px;
+    height: 56px;
+    margin-right: 24px;
+    border-radius: 50%;
+    background-color: #e0e6fe;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    -webkit-box-align: center;
+	font-weight:bold;
+}
+
+/*paragraph*/
+.tab-pane-paragraph{
+	margin-bottom: 0px;
+    font-weight: 500;
+    font-family: Eudoxussans, sans-serif;
+    flex: 1;
+}
+
+.text-block-4 {
+	font-family: Eudoxussans, sans-serif;
+    color: #000;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
